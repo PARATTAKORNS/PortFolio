@@ -27,7 +27,7 @@ function Hero(){
                 </div>
             </div>
             <div className="right-side px-8">
-                <img src="./public/me-profile.jpg"
+                <img src="me-profile.jpg"
                 alt=""
                 className='rounded-full h-72 w-72'
                 />
