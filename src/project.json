@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Event Pro Application",
+        "content" : "Work Experience",
+        "description" : "Application for Small to Middle Business-size about Organization Events",
+        "img": "banner3.jpg",
+        "linkUrl" : "Event_Pro"
+    },
+    {
+        "id": 2,
+        "title": "Fuzik Connex",
+        "content" : "Internship",
+        "description" : "Cooperative Program in UX/UI Developer",
+        "img": "banner2.jpg",
+        "linkUrl" : "Fuzik_Project"
+    },
+    {
+        "id": 3,
+        "title": "Minibus UX/UI Application",
+        "content" : "Case Study",
+        "description" : "Application Monitoring how long and where is Minibus will coming to KMITL",
+        "img": "banner1.jpg",
+        "linkUrl" : "Minibus"
+    }
+]

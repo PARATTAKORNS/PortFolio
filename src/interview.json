@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "Mek",
+        "age" : 21,
+        "imgURL" : "Mek-notion.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Pim",
+        "age" : 22,
+        "imgURL" : "Pim-notion.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Pun",
+        "age" : 20,
+        "imgURL" : "pun-notion.png"
+    },
+    {
+        "id" : 4,
+        "name" : "Kong",
+        "age" : 21,
+        "imgURL" : "Kong-notion.png"
+    }
+]
