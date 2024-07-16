@@ -10,7 +10,7 @@ function Minibus(){
         <>
         <Navbar />
         <section className="font-mulish mx-auto max-w-7xl py-28">
-            <Link to="/"><FontAwesomeIcon icon={faArrowLeft} className="mr-2 ml-16 md:ml-0" />Back</Link>
+            <Link to="/"><FontAwesomeIcon icon={faArrowLeft} className="mr-2 ml-16 lg:ml-0" />Back</Link>
             <img src="banner1.jpg" className="mt-8 max-w-sm md:max-w-xl mx-auto" alt="" />    
 
             <div className="topic">
