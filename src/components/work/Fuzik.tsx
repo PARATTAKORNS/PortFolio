@@ -9,12 +9,12 @@ function Fuzik(){
         <>
         <Navbar />
         <section className="font-mulish mx-auto max-w-7xl py-28">
-        <Link to="/"><FontAwesomeIcon icon={faArrowLeft} className="mr-2 ml-16 md:ml-0" />Back</Link>
+        <Link to="/"><FontAwesomeIcon icon={faArrowLeft} className="mr-2 ml-16 lg:ml-0" />Back</Link>
         <img src="banner2.jpg" className="mt-8 max-w-sm md:max-w-xl mx-auto" alt="" />
 
         <div className="topic mt-12">
-            <h1 className="text-5xl font-bold ml-48 px-4 md:text-center">Cooperative Program in UX/UI Devloper</h1>
-            <p className="text-xl text-gray-500 mb-12 mt-4 md:ml-48 px-4">Internship</p>    
+            <h1 className="text-5xl font-bold lg:ml-48 px-4">Cooperative Program in UX/UI Developer</h1>
+            <p className="text-xl text-gray-500 mb-12 mt-4 lg:ml-48 px-4">Internship</p>
         </div>
         
         <div className="max-w-4xl mx-auto px-4">
