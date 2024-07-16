@@ -19,24 +19,26 @@ function About(){
                     <img src="Me_Japan.jpg" className="w-3/4 md:w-4/5 rounded-full" alt="" />
                 </div>
             </div>
-            <div className="hobbies mx-auto border-t border-black p-3 my-8">
-                <div className="grid grid-cols-1 md:grid-cols-3 mt-12 space-y-8">
-                    <div className="hobbies text-xl">
+            <div className="mx-auto border-t border-black p-3 my-8">
+                <div className="grid grid-cols-1 lg:grid-cols-3 mt-12">
+                    <div className="grid grid-rows-3">
                         <h2 className="text-3xl font-bold">What I Like</h2>
                         <p className="mt-3">⚽ Football</p>
                         <p className="mt-3">🎮 Video Games</p>
                         <p className="mt-3">🦔 Hedgehog</p>
                     </div>
-                    <div className="learn text-xl">
-                    <h2 className="text-3xl font-bold">At free time</h2>
+                    <div className="">
+                    <div className="grid grid-rows-3">
+                        <h2 className="text-3xl font-bold">At free time</h2>
                         <p className="mt-3">📖 Reading Books</p>
                         <p className="mt-3">🧘 Mediation</p>
                         <p className="mt-3">🎧 Listening Podcast</p>
                     </div>
+                    </div>
                 </div>
             </div>
         </section>
-        <Footer></Footer>
+        <Footer />
         </>
     )
 }
